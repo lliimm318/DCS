@@ -1,4 +1,4 @@
-### Fassto Fulfillment Platform
+# Fassto Fulfillment Platform
 
 ## Data Collection Service
 외부로부터 들어오는 데이터를 모으고 validation을 진행합니다. 모은 데이터를 카프카에 담습니다.
