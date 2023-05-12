@@ -1,4 +1,5 @@
 # Fassto Fulfillment Platform
+MSA 구조
 
 ## 프로젝트 구조
 
