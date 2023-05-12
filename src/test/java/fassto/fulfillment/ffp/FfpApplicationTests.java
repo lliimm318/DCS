@@ -1,10 +1,10 @@
-package data.collection.service.dcs;
+package fassto.fulfillment.ffp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DcsApplicationTests {
+class FfpApplicationTests {
 
 	@Test
 	void contextLoads() {

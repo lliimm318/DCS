@@ -1,13 +1,13 @@
-package data.collection.service.dcs;
+package fassto.fulfillment.ffp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DcsApplication {
+public class FfpApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DcsApplication.class, args);
+		SpringApplication.run(FfpApplication.class, args);
 	}
 
 }
