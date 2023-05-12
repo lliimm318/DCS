@@ -1,4 +1,4 @@
-package fassto.fulfillment.ffp;
+package fassto.fulfillment.platfrom;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
